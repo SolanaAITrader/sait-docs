@@ -2,6 +2,9 @@
 
 Welcome to the official documentation for **Solana AI Trader (SAIT)**, the revolutionary AI-powered trading bot built on the Solana blockchain. SAIT combines cutting-edge artificial intelligence with the unparalleled speed of Solana to deliver a smarter, faster, and more efficient trading experience.
 
+![Dein Abschnittstext (6)](https://github.com/user-attachments/assets/7ac4b5ab-f411-4141-83e5-0a4f9e014e02)
+
+
 ## Overview
 SAIT is designed to analyze market data in real-time, make precise predictions, and execute trades automatically. Whether you're a beginner or an advanced trader, SAIT empowers you to trade smarter, not harder.
 
